@@ -1,0 +1,8 @@
+name: OfflineInventoryEditor
+main: com.kabryxis.offlineinventoryeditor.OfflineInventoryEditor
+version: 2.0.0
+commands:
+  offlineinventoryeditor:
+    usage: /oie [player]
+    description: Loads player's inventory.
+    aliases: [oie]
